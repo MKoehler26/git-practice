@@ -2,3 +2,5 @@ Name: Ironhacker
 Age: 25
 Favorite Color: Yellow
 Favorite Animal: Python
+Favorite Plant: Cornflower
+Favorite Author: Italo Calvino
